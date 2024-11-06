@@ -41,7 +41,7 @@ export const experiencesData = [
     description:
       "Pursued software engineering with active involvement in team projects, including a dynamic forum website that earned 1st runner-up in a university competition. Technologies: HTML, CSS, JavaScript, React.",
     icon: React.createElement(LuGraduationCap),
-    date: "2019 - 2024",
+    date: "2021",
   },
   {
     title: "Leader of Sub-Intern Group",
