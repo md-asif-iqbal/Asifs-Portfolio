@@ -1,0 +1,11 @@
+/* Custom circular cursor */
+.customCursor {
+    position: fixed;
+    width: 20px; /* Adjust size */
+    height: 20px;
+    border-radius: 50%;
+    background-color: rgba(0, 0, 0, 0.8); /* Customize color */
+    pointer-events: none;
+    transform: translate(-50%, -50%);
+    z-index: 9999;
+  }
